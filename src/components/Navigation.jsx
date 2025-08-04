@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Phone, Menu, X } from 'lucide-react';
+import Logo from '/public/images/logo.png';
 
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -30,7 +31,7 @@ const Navigation = () => {
                 : 'h-20 scale-100 hover:scale-105'
             }`}>
               <img 
-                src="/public/images/logo.png" 
+                src={Logo}
                 alt="Glendy Tinal" 
                 className={`h-full w-auto object-contain transition-all duration-500 ease-out ${
                   isScrolled 
