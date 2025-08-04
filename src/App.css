@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Montserrat'; 
+  src: url('./fonts/Montserrat.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis'; 
+  src: url('./fonts/Metropolis.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CocoGothic'; 
+  src: url('./fonts/CocoGothic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rosaline'; 
+  src: url('./fonts/Rosaline.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cinzel'; 
+  src: url('./fonts/Cinzel.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CaviarDreams'; 
+  src: url('./fonts/CaviarDreams.ttf') format('truetype');
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.metropolis {
+  font-family: 'Metropolis', sans-serif;
+}
+.coco-gothic {
+  font-family: 'CocoGothic', sans-serif;
+}
+
+.rosaline {
+  font-family: 'Rosaline', sans-serif;
+}
+
+.cinzel {
+  font-family: 'Cinzel', sans-serif;
+}
+.caviar {
+  font-family: 'CaviarDreams', sans-serif;
+}
