@@ -1,12 +1,24 @@
-# React + Vite
+# 🦷 Clínica Dental Glendy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page moderna y responsive para clínica dental ubicada en Umán, Yucatán. Sitio web profesional con galería de instalaciones, información de contacto, horarios y secciones interactivas.
 
-Currently, two official plugins are available:
+## 🛠️ Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
 
-## Expanding the ESLint configuration
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+</div>
+
+## 📋 Características
+
+✨ Diseño responsive (móvil y desktop)  
+🎨 Paleta de colores personalizada   
+📸 Galería de imágenes interactiva  
+📍 Integración con Google Maps  
+⏰ Información de horarios  
+📞 Datos de contacto directo  
+
