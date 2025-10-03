@@ -11,7 +11,7 @@ import About from "./components/About";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 import ToothPattern from "./components/ToothPattern";
-import ChatWidget from "./components/ChatWidget";
+
 import Svg from "./Svg";
 
 function App() {
@@ -39,7 +39,7 @@ function App() {
         <br />
       </main>
       <Footer />
-      <ChatWidget/>
+      
     </div>
   );
 }
